@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Maiwand Alkozai
+# Purpose:     To Know what number is odd or even
+#
+# Author:      Maiwand Alkozai
+# Created:     24-Feb-2025
+# Updated:     3-Mar-2025
+#-----------------------------------------------------------------------------
+
 myScore = int(input("tell me a number: "))
 if myScore == 1 and 1:
     print("its a odd number")

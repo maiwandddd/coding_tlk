@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:        Maiwand Alkozai
+# Purpose:     To know did you pass the grade or no
+#
+# Author:      Maiwand Alkozai
+# Created:     24-Feb-2025
+# Updated:     3-Mar-2025
+#-----------------------------------------------------------------------------
 print("02_temp maiwand, im here to ask about your score!, so whats your score in percentage?")
 myScore = int(input("whats your score: "))
 if 60 <= myScore <= 69:

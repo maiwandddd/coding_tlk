@@ -1,3 +1,10 @@
+#-----------------------------------------------------------------------------
+# Name:        Maiwand Alkozai
+# Purpose:     To know what to do for today
+# Author:      Maiwand Alkozai
+# Created:     29-Feb-2025
+# Updated:     4-Mar-2025
+#-----------------------------------------------------------------------------
 print("hello boss! ready for today?")
 input("")
 myDay = input("well great, what day is it today? ")

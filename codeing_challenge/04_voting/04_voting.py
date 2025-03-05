@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:        Maiwand Alkozai
+# Purpose:     To know at what age we can vote
+#
+# Author:      Maiwand Alkozai
+# Created:     26-Feb-2025
+# Updated:     2-Mar-2025
+#-----------------------------------------------------------------------------
 print("hey maiwand how can i help you?")
 input("")
 print("well, you found your guy!")

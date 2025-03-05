@@ -1,12 +1,11 @@
-# print("how can i help buddy?")
-#input("")
-#day = input("What day is it? and what time is it?")
-#print("broski stay home, its cold, 10c, I prefer to wear a jacket and stay warm!")
-# myTemperature = int(input("you want to know what's the weather tomorrow?"))
-# if myTemperature > 15:
-#    print("it's better than tomorrow, it'll be 15c")
-#else:
-#    pass
+#-----------------------------------------------------------------------------
+# Name:        Maiwand Alkozai
+# Purpose:     To know how cold or hot is outside
+#
+# Author:      Maiwand Alkozai
+# Created:     19-Feb-2025
+# Updated:     1-Mar-2025
+#-----------------------------------------------------------------------------
 myTempreture = int(input("whats the temp: "))
 if 1 <= myTempreture <= 9:
     print("its so cold, stay home!")
