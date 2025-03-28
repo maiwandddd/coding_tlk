@@ -10,3 +10,4 @@ n = 10
 while n > 0 and input(f"{n} Type 'stop' to quit: ").strip().lower() != "stop":
     n -= 1
 print("Stopped!" if n > 0 else "Countdown completed!")
+.
